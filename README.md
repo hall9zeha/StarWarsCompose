@@ -1,4 +1,4 @@
-# StarWarsCompose
+# StarWars Compose App
 
 Aplicación que muestra información sobre todo lo relacionado a Star Wars desarrollada en Android  usando el Jetpack Compose, inyección de dependencias con Dagger Hilt y usando el patrón de arquitectura
 MVVM.
@@ -18,5 +18,11 @@ MVVM.
 
 
 # Capturas 🖼️
+
+<img src="https://github.com/hall9zeha/StarWarsCompose/blob/main/Screenshots/Screenshot_1.jpg" alt="drawing" width="35%" height="35%"/>  <img src="https://github.com/hall9zeha/StarWarsCompose/blob/main/Screenshots/Screenshot_2.jpg" alt="drawing" width="35%" height="35%"/>
+
+<img src="https://github.com/hall9zeha/StarWarsCompose/blob/main/Screenshots/Screenshot_3.jpg" alt="drawing" width="35%" height="35%"/>  <img src="https://github.com/hall9zeha/StarWarsCompose/blob/main/Screenshots/Screenshot_4.jpg" alt="drawing" width="35%" height="35%"/>
+
+<img src="https://github.com/hall9zeha/StarWarsCompose/blob/main/Screenshots/Screenshot_5.jpg" alt="drawing" width="35%" height="35%"/>
 
 
